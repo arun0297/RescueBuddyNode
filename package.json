@@ -13,13 +13,13 @@
     "body-parser": "^1.18.3",
     "cookie-parser": "^1.4.3",
     "express": "^4.16.4",
-    "hbs": "^4.0.1",
-    "helmet": "^3.14.0",
+    "hbs": "^4.0.6",        //changed to latest version
+    "helmet": "^5.2.1",      //changed to latest version
     "jsonwebtoken": "^8.3.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.15",    //changed to latest version
     "mongoose": "^5.3.6",
     "morgan": "^1.9.1",
-    "multer": "^1.4.1",
+    "multer": "^1.4.2",   //changed to latest version
     "path": "^0.12.7",
     "request": "^2.88.0",
     "validator": "^10.8.0"
